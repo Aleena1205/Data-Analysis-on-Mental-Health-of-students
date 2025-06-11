@@ -1,4 +1,4 @@
-# Depression Analysis Project
+# Data-Analysis-on-Mental-Health-of-students
 
 This project analyzes a dataset related to **depression**, **suicidal thoughts**, and **sleep patterns**. It includes data preprocessing, statistical tests, and visualizations to uncover meaningful patterns.
 
@@ -27,4 +27,4 @@ This project analyzes a dataset related to **depression**, **suicidal thoughts**
 
 ## License
 This project is licensed under the MIT License.
-# Data-Analysis-on-Mental-Health-of-students
+
